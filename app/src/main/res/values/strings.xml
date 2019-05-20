@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RandomDecider</string>
+    <string name="lblchinease">Chinease</string>
+    <string name="lblDecide">Decide</string>
+    <string name="lblAddFood">Add New Food</string>
+    <string name="lblName">Name</string>
+</resources>
